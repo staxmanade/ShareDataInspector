@@ -1,6 +1,9 @@
 Share Data Inspector
 --
 
+
+The Share Data Inspector provides a deep dive into what data is being shared when you click on the share charm (Win+h keyboard shortcut) from within nearly any Windows 8 application. This tool can be used to understand the different types of data shared and provides a way to visualize the data. Whether the third party application is sharing HTML, Text, Storage Files, or a Bitmap, this tool will give you insight into what data an application is sharing.
+
 ## Support
 Please report feature requests and issues in the [github issues](https://github.com/staxmanade/ShareDataInspector/issues) list.
 
